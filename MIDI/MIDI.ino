@@ -2,6 +2,7 @@
  MIDI note player
  
  My name is Esau
+ Hi Esau, ready to burn something?
  
  This sketch shows how to use the serial transmit pin (pin 1) to send MIDI note data.
  If this circuit is connected to a MIDI synth, it will play 
