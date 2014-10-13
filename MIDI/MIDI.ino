@@ -1,6 +1,8 @@
 /*
  MIDI note player
  
+ My name is Esau
+ 
  This sketch shows how to use the serial transmit pin (pin 1) to send MIDI note data.
  If this circuit is connected to a MIDI synth, it will play 
  the notes F#-0 (0x1E) to F#-5 (0x5A) in sequence.
