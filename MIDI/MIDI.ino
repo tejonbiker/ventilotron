@@ -2,6 +2,8 @@
  MIDI note player
  
  My name is Esau
+ Hi Esau, ready to burn something?
+ Hi, I return to fix something!!
  
  This sketch shows how to use the serial transmit pin (pin 1) to send MIDI note data.
  If this circuit is connected to a MIDI synth, it will play 
@@ -49,4 +51,4 @@ void noteOn(int cmd, int pitch, int velocity) {
   Serial.write(pitch);
   Serial.write(velocity);
 }
-
+//david estubo aqui jeje !
